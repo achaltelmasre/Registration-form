@@ -1,0 +1,16 @@
+.card{
+    background-color: rgb(253, 240, 199);
+    width: 500px;
+    height: auto;
+    padding: 20px;
+    margin: 50px;
+}
+.heading{
+    text-align: center;
+}
+.input{
+    padding: 5px;
+   font-size: 20px;
+    margin: 10px;
+    outline: none;
+}
